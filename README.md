@@ -98,7 +98,5 @@ urlpatterns = [
 ![ass3main](https://github.com/user-attachments/assets/a88eb9b5-83ee-4311-816b-ecd13ee0ad75)
 
 
-## COURSERA GRADE
-
 ## RESULT
 Thus the program for creating a polls using Django has been executed successfully.
