@@ -95,7 +95,7 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT
-![ass3main](https://github.com/user-attachments/assets/a88eb9b5-83ee-4311-816b-ecd13ee0ad75)
+![image](https://github.com/user-attachments/assets/170a53ac-7fbb-4cec-8a43-c1ed0531c059)
 
 
 ## RESULT
